@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 // This code demonstrates the Flyweight pattern in which a relatively small 
 // number of shape objects is shared several times.
+//
 
 namespace Flyweight.Demonstration
 {
